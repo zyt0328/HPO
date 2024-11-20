@@ -1,0 +1,3 @@
+stage,param_index,params,strategy,train_loss,val_loss,train_accuracy,val_accuracy,training_time,total_training_time,epochs
+6,0,"{'num_layers': 2, 'units_per_layer': 126, 'activation': 'tanh', 'learning_rate': 0.0014137303849084306, 'batch_size': 32, 'dropout_rate': 0.2065549957061648, 'l2_reg_strength': 5.769553851856545e-07}",successive_halving,0.09231439906855424,0.29750008368492126,97.1,92.2,34.42952370643616,12133.76364326477,27
+6,1,"{'num_layers': 3, 'units_per_layer': 108, 'activation': 'tanh', 'learning_rate': 0.0002345994091450985, 'batch_size': 128, 'dropout_rate': 0.16998325594150202, 'l2_reg_strength': 1.1525852489069164e-05}",successive_halving,0.04970348493258158,0.27983893632888795,98.63333333333334,91.6,27.59432601928711,12161.357969284058,27

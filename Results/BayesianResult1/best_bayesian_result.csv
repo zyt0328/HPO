@@ -1,0 +1,2 @@
+iteration,params,strategy,train_loss,val_loss,train_accuracy,val_accuracy,training_time,total_training_time
+282,"{'num_layers': 2, 'units_per_layer': 99, 'activation': 1, 'learning_rate': 0.0008605257619565998, 'batch_size': 32, 'dropout_rate': 0.09194037410226738, 'l2_reg_strength': 1.3923314839456228e-05}",bayesian,0.1996402754187584,0.27231271493434905,93.53333333333333,92.2,13.481137037277222,3577.1818997859955

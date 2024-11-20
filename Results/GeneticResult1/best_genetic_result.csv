@@ -1,0 +1,2 @@
+generation,param_index,params,strategy,train_loss,val_loss,train_accuracy,val_accuracy,training_time,total_training_time
+0,12,"{'num_layers': 3, 'units_per_layer': 116, 'activation': 'tanh', 'learning_rate': 0.0009753554874941417, 'batch_size': 128, 'dropout_rate': 0.08664859185877122, 'l2_reg_strength': 0.0001725554527176576}",genetic,0.15547494409481685,0.3048548746109009,95.8,89.6,10.015619277954102,10022.793384552002

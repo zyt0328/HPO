@@ -1,0 +1,2 @@
+stage,param_index,params,strategy,train_loss,val_loss,train_accuracy,val_accuracy,training_time,total_training_time,epochs
+3,78,"{'num_layers': 2, 'units_per_layer': 115, 'activation': 'relu', 'learning_rate': 0.051300762661421535, 'batch_size': 16, 'dropout_rate': 0.12091392251508093, 'l2_reg_strength': 4.4150374544650065e-05}",successive_halving,0.28129536087065937,0.2884695156812668,91.06666666666666,92.2,9.380431175231934,7732.007245540619,6

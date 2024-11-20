@@ -1,0 +1,2 @@
+param_index,params,strategy,train_loss,val_loss,train_accuracy,val_accuracy,training_time,total_training_time
+14996,"{'num_layers': 4, 'units_per_layer': 128, 'activation': 'tanh', 'learning_rate': 0.29999999999999993, 'batch_size': 64, 'dropout_rate': 0.05, 'l2_reg_strength': 0.01}",your_strategy_name,0.12652680371701716,0.2726783452033997,96.43333333333334,92.8,12.046090364456177,172390.66642451286

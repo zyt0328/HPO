@@ -1,0 +1,2 @@
+generation,param_index,params,strategy,train_loss,val_loss,train_accuracy,val_accuracy,training_time,total_training_time
+1,29,"{'num_layers': 3, 'units_per_layer': 126, 'activation': 'relu', 'learning_rate': 0.21144287336434694, 'batch_size': 64, 'dropout_rate': 0.2028915041495527, 'l2_reg_strength': 0.001199658632517135}",genetic,0.2564519470135371,0.27859414553642275,91.86666666666666,92.8,10.585970401763916,850.0611898899078
